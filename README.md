@@ -7,7 +7,7 @@ Web/App developer, Data/Quantitative analyst
 I'm passionate about Full Stack web development, data analysis, and cybersecurity with experience in developing Full Stack web applications using Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
 
 *   🌍  I'm based in Nairobi, Kenya
-*   🖥️  See my portfolio at [don-michael](http://don-michael.vercel.app/)
+*   🖥️  See my portfolio at [don-michael](https://portfolio-m-eta.vercel.app/home)
 *   ✉️  You can contact me at [ombisimichael@gmail.com](mailto:ombisimichael@gmail.com)
 *   🧠  I'm learning Quantitative analysis in world quant University And quantum computing
 *   🤝  I'm open to collaborating on Exciting projects
